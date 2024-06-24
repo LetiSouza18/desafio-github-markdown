@@ -26,6 +26,14 @@ Para criar uma branch: git branch nome_da_branch
 Para navegar entre as branchs: git checkout nome_da_branch
 Para atrelar alterações feitas em uma ramificação para a principal ou qualquer outra: git merge
 
+### Criar nosso primeiro Fork;
+Entre o repositório que deseja realizar o fork e clique na aba de fork e automaticamente o projeto irá ficar nos seus repositórios.
+
+#### Realizar um Pull Request 
+Depois de fazer um fork no projeto que deseja colaborar, 
+realize as alterações que prefirir e faça um pull request descrevendo as alterações no projeto.
+Após isso, o proprietário do projeto recebe o pull request e dá um merge pull request se aceitar as modificações feitas.
+
 #### Conceitos
 *Tags*: Uma referência específica a um commit, geralmente usada para marcar versões estáveis.
 *Releases*: Utiliza uma tag como base e é uma forma mais organizada de marcar as versões, pode-se adicionar uma descrição da versão com arquivos e imagens. Mantém o controle do código com detalhes.
